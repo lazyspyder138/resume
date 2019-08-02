@@ -1,0 +1,59 @@
+.bg-black{
+  background-color: black;
+}
+
+.font-div{
+  width: 100%;
+}
+
+
+img{
+  height:100%;
+  width: 100%;
+}
+.name{
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  color: #D4AF37;
+}
+.icon{
+  color: black;
+  font-size: 20px;
+}
+.logostyle{
+  height: 60px;
+  width: 60px;
+}
+.size{
+  padding: 5px;
+  font-size: 30px;
+}
+.n{
+  color: #D4AF37;
+}
+/* body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../img/pic4.jpg');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/*      responsive      */
+
+/* @media only screen and ( min-width: 1198px){
+  .font-div{
+    padding: 42.5px 0px!important;
+
+  }
+} */
+/* @media only screen and ( max-width: 768px){
+  .font-div{
+    width: auto!important;
+
+  }
+} */
+@media only screen and ( min-width: 360px){
+  .icon{
+    padding-right: 5px!important;
+  }
+}
